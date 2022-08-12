@@ -1,0 +1,1 @@
+@include('livewire.helpers.form',['module_code' => 'product','arr_form' => $form_update])
