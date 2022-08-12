@@ -1,6 +1,6 @@
 Log
-packages/template
-vendor
+packages/template/*
+vendor/
 composer.lock
 /vendor/
 application/cache/*
